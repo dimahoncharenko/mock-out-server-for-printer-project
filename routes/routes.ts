@@ -206,11 +206,6 @@ const characteristics = [
         logoUrl: "https://megaprint.kiev.ua/content/images/2/200x26l90nn0/18790293426215.webp"
       },
       {
-        price: "17 523 грн.",
-        link: "http://isplotters.com.ua/product/epson-l8180",
-        logoUrl: "http://isplotters.com.ua/include/site/images/header/logo.png"
-      },
-      {
         price: "19 479 грн.",
         link: "https://podillyafinance.com.ua/bfp-a3-epson-l8180-fabrika-druku-z-wi-fi?search=Epson%20L8180",
         logoUrl: "https://podillyafinance.com.ua/image/catalog/LOGO/logotype.png"

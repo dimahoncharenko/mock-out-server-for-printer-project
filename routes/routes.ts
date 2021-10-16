@@ -206,6 +206,26 @@ const characteristics = [
         logoUrl: "https://megaprint.kiev.ua/content/images/2/200x26l90nn0/18790293426215.webp"
       },
       {
+        price: "17 523 грн.",
+        link: "http://isplotters.com.ua/product/epson-l8180",
+        logoUrl: "http://isplotters.com.ua/include/site/images/header/logo.png"
+      },
+      {
+        price: "19 479 грн.",
+        link: "https://podillyafinance.com.ua/bfp-a3-epson-l8180-fabrika-druku-z-wi-fi?search=Epson%20L8180",
+        logoUrl: "https://podillyafinance.com.ua/image/catalog/LOGO/logotype.png"
+      },
+      {
+        price: "19 825 грн.",
+        link: "https://katran.vn.ua/orgtehnika-aksesuari/printeri-skaneri-bfp-3v1/bagatofunkcional-ni-pristroi/1124344",
+        logoUrl: "https://katran.vn.ua/assets/img/logo.svg"
+      },
+      {
+        price: "18 099 грн.",
+        link: "https://chip-mag.com/p1492229788-bfp-epson-l8180.html",
+        logoUrl: "https://images.ua.prom.st/1651382861_w120_h120_chipinternet-magazin-tehniki-i.jpg"
+      },
+      {
         price: "29 250 грн.",
         link: "https://click24.in.ua/p/1265564035-epson-ecotank-l8180/?utm_source=nadavi&utm_medium=cpc",
         logoUrl: "https://images.zakupka.com/i3/firms/27/10766/10766494/click24-biz_42bb44d567fa70a_400x120.png"

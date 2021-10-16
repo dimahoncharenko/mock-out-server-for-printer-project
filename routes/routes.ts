@@ -196,9 +196,9 @@ const characteristics = [
         logoUrl: "https://konotop.prom.ua/cloud-cgi/static/uaprom-static/js/build/portal-portable/images/logo_prom-3K4N3.svg"
       },
       {
-        price: "19 479 грн.",
-        link: "https://www.lds.com.ua/uk/mfu-a3-epson-l8180-fabrika-pechati-c-wi-fi-c11cj21403/",
-        logoUrl: "https://www.lds.com.ua/images/logo_LDS.png"
+        price: "19 825 грн.",
+        link: "https://distri.mti.ua/noutbuki-ta-kompyuteri/pristroyi-dlya-druku/mfp/3699726",
+        logoUrl: "https://distri.mti.ua/themes/mti/assets/img/logo.svg"
       },
       {
         price: "19 825 грн.",

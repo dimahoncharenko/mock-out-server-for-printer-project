@@ -154,7 +154,7 @@ const characteristics = [
   
   const photos = [
     {
-      img: "/printer-project/static/media/slide1.099e18fa.jpg",
+      img: "https://ibb.co/tJZMvqn",
       title: "Представляємо принтери EcoTank",
       content: "Кольоровий друк сторінок за допомогою EcoTank коштує недорого. Принтери EcoTank використовують технологію Heat-Free, щоб забезпечити передові переваги для клієнтів над лазерною та тепловою струменевою технологією та, для повного спокою, користуватися трирічною гарантією, коли ви реєструєте свій EcoTank у Epson."
     }, 

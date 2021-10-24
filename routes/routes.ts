@@ -247,7 +247,37 @@ const characteristics = [
           price: "558 грн",
           link: "https://kiev.pacxodka.net/category/epson-l8180/",
           logoUrl: "https://kiev.pacxodka.net/wa-data/public/site/themes/ahead/logo.svg?v1.4.4"
-        }
+        },
+        {
+          price: "529 грн",
+          link: "https://p.ua/uk/buy-epson-l8180_original-ink/",
+          logoUrl: "https://p.ua/media/logo/websites/1/Logo-P.ua-MAIN.svg"
+        },
+        {
+          price: "491 грн",
+          link: "https://www.itbox.ua/ua/product/Konteyner_s_chernilami_Epson_115_EcoTank_Grey_C13T07D54A-p705805/",
+          logoUrl: "https://static.itbox.ua/static/src/img/logo/logo-itbox-mobile.svg"
+        },
+        {
+          price: "529 грн",
+          link: "https://can.ua/ru/epson-115-ecotank-magenta-c13t07d34a/p277242/",
+          logoUrl: "https://i.can.ua/logo-white.svg"
+        },
+        {
+          price: "491 грн",
+          link: "https://mt.dp.ua/catalog/konteyner-s-chernilami-epson-115-ecotank-yellow-c13t07d44a.html",
+          logoUrl: "https://mt.dp.ua/upload/images/mtlogo-header8.png"
+        },
+        {
+          price: "553 грн",
+          link: "https://impulse-ua.com/kontejner-s-chernilami-epson-115-ecotank-black-c13t07c14a-115-ecotank-black-1",
+          logoUrl: "https://impulse-ua.com/image/logo2.png"
+        },
+        {
+          price: "491 грн",
+          link: "https://brain.com.ua/Konteyner_s_chernilami_Epson_115_EcoTank_Magenta_C13T07D34A-p796436.html",
+          logoUrl: "https://brain.com.ua/static/retail/images/brain-logo-gray.svg"
+        },
       ]
     };
    

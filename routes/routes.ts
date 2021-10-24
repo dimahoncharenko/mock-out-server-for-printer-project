@@ -189,58 +189,68 @@ const characteristics = [
       content: "Завдяки лінійці компактних мультипакетів Epson з Wi-Fi, друк з мобільних телефонів може бути швидким і легким. Більше не потрібно прив'язуватися до столу – надсилайте товари для друку з планшета або смартфона за допомогою Wi-Fi та ряду безкоштовних мобільних додатків для друку."
     }];
   
-    const pricing = [
-      {
-        price: "18 942 грн.",
-        link: "https://konotop.prom.ua/ua/p1440802220-bfp-epson-l8180.html?&primelead=MS4wMw",
-        logoUrl: "https://konotop.prom.ua/cloud-cgi/static/uaprom-static/js/build/portal-portable/images/logo_prom-3K4N3.svg"
-      },
-      {
-        price: "19 825 грн.",
-        link: "https://distri.mti.ua/noutbuki-ta-kompyuteri/pristroyi-dlya-druku/mfp/3699726",
-        logoUrl: "https://distri.mti.ua/themes/mti/assets/img/logo.svg"
-      },
-      {
-        price: "19 825 грн.",
-        link: "https://megaprint.kiev.ua/bfp-a3-epson-l8180-fabrika-druku-z-wi-fi/",
-        logoUrl: "https://megaprint.kiev.ua/content/images/2/200x26l90nn0/18790293426215.webp"
-      },
-      {
-        price: "19 479 грн.",
-        link: "https://podillyafinance.com.ua/bfp-a3-epson-l8180-fabrika-druku-z-wi-fi?search=Epson%20L8180",
-        logoUrl: "https://podillyafinance.com.ua/image/catalog/LOGO/logotype.png"
-      },
-      {
-        price: "19 825 грн.",
-        link: "https://katran.vn.ua/orgtehnika-aksesuari/printeri-skaneri-bfp-3v1/bagatofunkcional-ni-pristroi/1124344",
-        logoUrl: "https://katran.vn.ua/assets/img/logo.svg"
-      },
-      {
-        price: "18 099 грн.",
-        link: "https://chip-mag.com/p1492229788-bfp-epson-l8180.html",
-        logoUrl: "https://images.ua.prom.st/1651382861_w120_h120_chipinternet-magazin-tehniki-i.jpg"
-      },
-      {
-        price: "29 250 грн.",
-        link: "https://click24.in.ua/p/1265564035-epson-ecotank-l8180/?utm_source=nadavi&utm_medium=cpc",
-        logoUrl: "https://images.zakupka.com/i3/firms/27/10766/10766494/click24-biz_42bb44d567fa70a_400x120.png"
-      },
-      {
-        price: "19 825 грн.",
-        link: "https://rozetka.com.ua/epson-c11cj21403/p314140141/",
-        logoUrl: "https://xl-static.rozetka.com.ua/assets/img/design/logo_n.svg"
-      },
-      {
-        price: "19 825 грн.",
-        link: "https://brain.com.ua/ukr/Bagatofunkcionalniy_pristriy_Epson_L8180_Fabrika_pechati_c_WI-FI_C11CJ21403-p789594.html",
-        logoUrl: "https://brain.com.ua/static/retail/images/brain-logo-gray.svg"
-      },
-      {
-        price: "19 825 грн",
-        link: "https://www.itbox.ua/ua/product/Mnogofunkcionalnoe_ustroystvo_Epson_L8180_Fabrika_pechati_c_WI-FI_C11CJ21403-p698638/",
-        logoUrl: "https://static.itbox.ua/static/src/img/logo/logo-itbox-mobile.svg"
-      },
-    ];
+    const pricing = {
+      printer: [
+        {
+          price: "18 942 грн.",
+          link: "https://konotop.prom.ua/ua/p1440802220-bfp-epson-l8180.html?&primelead=MS4wMw",
+          logoUrl: "https://konotop.prom.ua/cloud-cgi/static/uaprom-static/js/build/portal-portable/images/logo_prom-3K4N3.svg"
+        },
+        {
+          price: "19 825 грн.",
+          link: "https://distri.mti.ua/noutbuki-ta-kompyuteri/pristroyi-dlya-druku/mfp/3699726",
+          logoUrl: "https://distri.mti.ua/themes/mti/assets/img/logo.svg"
+        },
+        {
+          price: "19 825 грн.",
+          link: "https://megaprint.kiev.ua/bfp-a3-epson-l8180-fabrika-druku-z-wi-fi/",
+          logoUrl: "https://megaprint.kiev.ua/content/images/2/200x26l90nn0/18790293426215.webp"
+        },
+        {
+          price: "19 479 грн.",
+          link: "https://podillyafinance.com.ua/bfp-a3-epson-l8180-fabrika-druku-z-wi-fi?search=Epson%20L8180",
+          logoUrl: "https://podillyafinance.com.ua/image/catalog/LOGO/logotype.png"
+        },
+        {
+          price: "19 825 грн.",
+          link: "https://katran.vn.ua/orgtehnika-aksesuari/printeri-skaneri-bfp-3v1/bagatofunkcional-ni-pristroi/1124344",
+          logoUrl: "https://katran.vn.ua/assets/img/logo.svg"
+        },
+        {
+          price: "18 099 грн.",
+          link: "https://chip-mag.com/p1492229788-bfp-epson-l8180.html",
+          logoUrl: "https://images.ua.prom.st/1651382861_w120_h120_chipinternet-magazin-tehniki-i.jpg"
+        },
+        {
+          price: "29 250 грн.",
+          link: "https://click24.in.ua/p/1265564035-epson-ecotank-l8180/?utm_source=nadavi&utm_medium=cpc",
+          logoUrl: "https://images.zakupka.com/i3/firms/27/10766/10766494/click24-biz_42bb44d567fa70a_400x120.png"
+        },
+        {
+          price: "19 825 грн.",
+          link: "https://rozetka.com.ua/epson-c11cj21403/p314140141/",
+          logoUrl: "https://xl-static.rozetka.com.ua/assets/img/design/logo_n.svg"
+        },
+        {
+          price: "19 825 грн.",
+          link: "https://brain.com.ua/ukr/Bagatofunkcionalniy_pristriy_Epson_L8180_Fabrika_pechati_c_WI-FI_C11CJ21403-p789594.html",
+          logoUrl: "https://brain.com.ua/static/retail/images/brain-logo-gray.svg"
+        },
+        {
+          price: "19 825 грн",
+          link: "https://www.itbox.ua/ua/product/Mnogofunkcionalnoe_ustroystvo_Epson_L8180_Fabrika_pechati_c_WI-FI_C11CJ21403-p698638/",
+          logoUrl: "https://static.itbox.ua/static/src/img/logo/logo-itbox-mobile.svg"
+        },
+      ],
+      inks: [
+        {
+          price: "558 грн",
+          link: "https://kiev.pacxodka.net/category/epson-l8180/",
+          logoUrl: "https://kiev.pacxodka.net/wa-data/public/site/themes/ahead/logo.svg?v1.4.4"
+        }
+      ]
+    };
+   
 
 router.get('/photos', function (request, reply) {
     reply.json({ photos });
